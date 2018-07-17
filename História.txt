@@ -1,7 +1,4 @@
-﻿Essa atividade deverá ser feita em dupla. 
-Você e seu colega desenvolverão, remotamente, duas histórias em conjunto. 
-Uma será iniciada por você neste computador, numa branch com seu nome. A outra história pela outra pessoa, numa branch feita por ela.
-
+﻿Essa atividade deverá ser feita em dupla. Você e seu colega desenvolverão, remotamente, duas histórias em conjunto. Uma será iniciada por você neste computador, numa branch com seu nome. A outra história pela outra pessoa, numa branch feita por ela.
 
 A ideia é que vocês escrevam apenas um parágrafo por vez, alternando entre escrever um parágrafo na sua história e o seguinte na do(a) colega.
 
@@ -9,4 +6,6 @@ Quando terminarem de fazer um parágrafo, vocês deverão dar Push no git e espe
 
 Você tem total liberdade para modificar trechos escritos por seu(ua) parceiro(a) na parte deles, mas vocês precisarão chegar a um acordo do que manter na hora de resolver os conflitos.
 
-Tendo como objetivo o melhor aproveitamento das férias, uma turma do terceiro ano de um colégio localizado na Tijuca, com 20 pessoas preparou uma viagem no meio do ano, com o objetivo de fazerem sua festa de formatura. Tendo muitos tópicos a serem discutidos, e o principal a local para onde seria realizado essa viagem, após muitos debates, decidiram ir para Búzios, local que encontraram uma casa, com aproximadamente 5 quartos e cada quarto tinham 2 beliches.
+
+
+Tendo como objetivo o melhor aproveitamento das férias e o restante do tempo juntos, uma turma do terceiro ano de um colégio localizado na Tijuca -bairro da Zona Norte da cidade do Rio de Janeiro-, com 20 pessoas, preparou uma viagem no final do ano, querendo comemorar sua festa de formatura. Em virtude do excesso de tópicos a serem discutidos, principalmente, o local para onde seria essa viagem e quando seria realizada, após muitos debates, decidiram ir para Ouro Preto, local que encontraram uma casa a preço acessível com aproximadamente 5 quartos e cada quarto tinham 2 beliches. Chegando lá, tiveram surpresa com o estado da casa, que aparentava ser mal-assombrada e o que o destino guardava para eles.
